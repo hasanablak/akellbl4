@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm 👨‍💻 Pavel Mineev
 
-- 🔭 I’m currently working at [June Homes](https://junehomes.com)  
+- 🔭 I work at [June Homes](https://junehomes.com)  
 - 🔬 I’m actively contributing to [Remark42](https://remark42.com)
 - 🌱 I’m currently learning Go
 - 💬 Ask me about Remark42, Next.js, React, and TypeScript
