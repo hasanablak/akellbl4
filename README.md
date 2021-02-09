@@ -8,5 +8,5 @@
 - 📫 How to reach me: [Pavel.Mineev.me](https://pavel.mineev.me) 
 
 <a href="https://github.com/akellbl4/spotify-playing-now-readme">
-<img src="https://spotify-playing-now-readme.vercel.app/api/now-playing?3" alt="Pavel Mineev: this track is playing now in my Spotify" width="540" height="48">
+<img src="https://spotify-playing-now-readme.vercel.app/api/now-playing?3" width="540" height="48">
 </a>
