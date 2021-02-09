@@ -1,5 +1,4 @@
 ### Hi there 👋
-## I'm 👨‍💻 Pavel Mineev
 
 - 🔭 I work at [June Homes](https://junehomes.com)  
 - 🔬 I’m actively contributing to [Remark42](https://remark42.com)
