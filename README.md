@@ -7,4 +7,6 @@
 - 💬 Ask me about Remark42, Next.js, React, and TypeScript
 - 📫 How to reach me: [Pavel.Mineev.me](https://pavel.mineev.me) 
 
+<a href="https://github.com/akellbl4/spotify-playing-now-readme">
 <img src="https://spotify-playing-now-readme.vercel.app/api/now-playing?3" width="540" height="48">
+</a>
