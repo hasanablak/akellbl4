@@ -8,5 +8,5 @@
 - 📫 How to reach me: [Pavel.Mineev.me](https://pavel.mineev.me) 
 
 <a href="https://github.com/akellbl4/spotify-badge">
-<img src="https://spotify-playing-now-readme.vercel.app/api/now-playing?3" width="540" height="52">
+<img src="https://spotify-badge.vercel.app/api/now-playing" width="540" height="52">
 </a>
