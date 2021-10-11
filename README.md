@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I work at [June Homes](https://junehomes.com)  
-- ✍️ I'm ab author on [Doka](http://doka.guide/). It's like MDN in Russian.
+- ✍️ I'm an author on [Doka](http://doka.guide/). It's like MDN in Russian.
 - 🔬 I’m actively contributing to [Remark42](https://remark42.com)
 - 🎤 I'm working on popularization Next.js in Russian community
 - 💬 Ask me about Remark42, Next.js, React, and TypeScript
