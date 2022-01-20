@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I work at [June Homes](https://junehomes.com)  
 - ✍️ I'm an author on [Doka](http://doka.guide/). It's like MDN in Russian
 - 🔠 I'm translating [Astro](https://astro.build) documentation to Russian
 - 🔬 I’m actively contributing to [Remark42](https://remark42.com)
